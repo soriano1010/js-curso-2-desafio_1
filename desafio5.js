@@ -10,3 +10,5 @@ while (contador < 11){
     console.log (`${numero}X${contador}=${resultado}`);
     contador++
 }
+
+
